@@ -13,4 +13,4 @@
 - [X] Prime Dates 2022/11/25
 - [X] Sherlock and Array 2022/11/25
 - [X] *Misère Nim 2022/11/28
-- [X] Gaming Array1 2022/11/29 
+- [X] *Gaming Array1 2022/11/29 
