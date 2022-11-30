@@ -15,7 +15,11 @@
 - [X] Sherlock and Array 2022/11/25
 - [X] *Misère Nim 2022/11/28
 - [X] *Gaming Array1 2022/11/29 
-- [X] *Forming a Magic Square 2022/11/29 `寫死`
+- [X] *Forming a Magic Square 2022/11/29 `Tricky` (寫死)
 - [X] Recursive Digit Sum 2022/11/29 `recursive`
 - [X] Counter game 2022/11/29
 - [X] Sum vs XOR 2022/11/29
+- [X]           2022/11/29
+- [X] The Bomberman Game 2022/11/30
+- [X] *New Year Chaos 2022/11/30
+- [] *Goodland Electricity 2022/11/30 `Greedy`
