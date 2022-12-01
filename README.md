@@ -19,7 +19,7 @@
 - [X] Recursive Digit Sum 2022/11/29 `recursive`
 - [X] Counter game 2022/11/29
 - [X] Sum vs XOR 2022/11/29
-- [X]           2022/11/29
+- [X] *Palindrome Index 2022/11/29
 - [X] The Bomberman Game 2022/11/30
 - [X] *New Year Chaos 2022/11/30
-- [] *Goodland Electricity 2022/11/30 `Greedy`
+- [X] *Goodland Electricity 2022/11/30 `Greedy`
