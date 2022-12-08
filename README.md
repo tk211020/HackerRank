@@ -1,9 +1,9 @@
 # HackerRank
-## The Coding Diaries (Python)
+## The Coding Diaries 
 
 * 記號代表有卡住/參考別人寫法的題目
   
-### Problem Solving (Basic)
+### Problem Solving (Basic) 
 
 - [X] Anagram 2022/11/23 
 - [X] The Full Counting Sort 2022/11/24
@@ -23,3 +23,6 @@
 - [X] The Bomberman Game 2022/11/30
 - [X] *New Year Chaos 2022/11/30
 - [X] *Goodland Electricity 2022/11/30 `Greedy`
+
+### Data Structures
+- (7/15) Linked List 2022/12/8 (Using JavaScript)
