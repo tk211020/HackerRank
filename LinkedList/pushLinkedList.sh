@@ -16,6 +16,6 @@ else
 fi
 
 git pull
-git add $dirName
-git commit -m "Problem: $1, Language: $3."
+git add $2
+git commit -m "Problem: $1, Language: $lan."
 git push
