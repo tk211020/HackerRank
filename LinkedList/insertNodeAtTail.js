@@ -62,15 +62,14 @@ function printSinglyLinkedList(node, sep, ws) {
  *
  */
 function insertNodeAtTail(head, data) {
-    let current = head;
-    let node  =  new SinglyLinkedList();
-    node.data = data;
+    let node = new SinglyLinkedListNode()
+    node.data = data
+    if(!head) return node
     
-    if(!current) return node;
-    
-    while(current.next) current  = current.next;
-    current.next = node;
-    return head;
+    let tail = head
+    while(tail.next) tail = tail.next
+    tail.next = node 
+    return head
 }
 
 function main() {
@@ -91,3 +90,4 @@ function main() {
 
     ws.end();
 }
+
