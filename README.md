@@ -25,4 +25,6 @@
 - [X] *Goodland Electricity 2022/11/30 `Greedy`
 
 ### Data Structures
-- (7/15) Linked List 2022/12/8 (Using JavaScript)
+- [X] LinkedList (15/15) 2022/12/9 
+  (7/15) 2022/12/8 (Using JavaScript)
+  (15/15) 2022/12/9 (Using JavaScript)  
