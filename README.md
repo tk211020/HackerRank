@@ -26,5 +26,7 @@
 
 ### Data Structures
 - [X] LinkedList (15/15) 2022/12/9 
-  (7/15) 2022/12/8 (Using JavaScript)
-  (15/15) 2022/12/9 (Using JavaScript)  
+
+(7/15) 2022/12/8 (Using JavaScript)
+
+(15/15) 2022/12/9 (Using JavaScript)  
