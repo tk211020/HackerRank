@@ -59,6 +59,21 @@ void preOrder( struct node *root) {
 }
 
 
+void inOrder( struct node *root) {
+    if (root == NULL) return;
+    inOrder(root->left);
+    printf("%d ", root->data);
+    inOrder(root->right);
+}
+
+void postOrder( struct node *root) {
+    if (root == NULL) return;
+    
+    postOrder(root->left);
+    postOrder(root->right);
+    printf("%d ", root->data);
+    
+}
 int main() {
   
     struct node* root = NULL;
@@ -74,5 +89,7 @@ int main() {
     }
   
 	preOrder(root);
+	inOrder(root);
+	postOrder(root);
     return 0;
 }
