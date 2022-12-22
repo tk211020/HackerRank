@@ -28,7 +28,7 @@ def icecreamParlor(m, arr):
     for i, num in enumerate(arr):
         complement = m - num
         if complement in num_count and (complement != num or num_count[num] > 1):
-            return i + 1, arr[i+1:].index(complement) + i + 2
+            return i + 1, ( i + 1 ) + ( arr[i+1:].index(complement) + 1 )
 
 if __name__ == '__main__':
     fptr = open(os.environ['OUTPUT_PATH'], 'w')
