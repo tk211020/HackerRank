@@ -23,6 +23,8 @@
 - [X] The Bomberman Game 2022/11/30
 - [X] *New Year Chaos 2022/11/30
 - [X] *Goodland Electricity 2022/11/30 `Greedy`
+- [X] *Sherlock and the Valid String 2022/12/22 `Collection`
+- [X] *Climbing the Leaderboard 2022/12/22 `Binary Search`
 
 ### Data Structures
 - [X] LinkedList (15/15) 2022/12/9 
