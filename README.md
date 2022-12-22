@@ -25,6 +25,7 @@
 - [X] *Goodland Electricity 2022/11/30 `Greedy`
 - [X] *Sherlock and the Valid String 2022/12/22 `Collection`
 - [X] *Climbing the Leaderboard 2022/12/22 `Binary Search`
+- [X] *Ice Cream Parlor 2022/12/22 `Hash Map`
 
 ### Data Structures
 - [X] LinkedList (15/15) 2022/12/9 
